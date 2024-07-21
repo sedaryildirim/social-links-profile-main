@@ -53,8 +53,8 @@ This is a solution to the [Social Links Profile challenge on Frontend Mentor](ht
 
 <div align="center">
 
-![Mobile](/imgs/mobile.png)
-![Desktop](/imgs/desktop.png)
+![Mobile](./assets/resources/imgs/mobile.png)
+![Desktop](./assets/resources/imgs/desktop.png)
 </div>
 
 ### Links
