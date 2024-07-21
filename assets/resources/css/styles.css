@@ -1,0 +1,125 @@
+/* GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* VARIABLES CSS */
+:root {
+  /* Colors */
+  --color-white: hsl(0, 0%, 100%);
+  --color-green: hsl(75, 94%, 57%);
+  --color-gray-700: hsl(0, 0%, 20%);
+  --color-gray-800: hsl(0, 0%, 12%);
+  --color-gray-900: hsl(0, 0%, 8%);
+  --color-black: hsl(0, 0%, 0%);
+
+  /* Typography */
+  --font-family: "Inter", sans-serif;
+  --font-size-body: 1rem;
+  --font-size-small: 0.75rem;
+  --font-size-large: 2rem;
+
+  /* Font weights */
+  --font-weight-regular: 400;
+  --font-weight-medium: 600;
+  --font-weight-bold: 700;
+}
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: var(--font-family);
+  background-color: var(--color-gray-900);
+  color: var(--color-white);
+  font-size: var(--font-size-body);
+}
+
+/* Main */
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 320px;
+  padding: 2rem;
+  background-color: var(--color-gray-800);
+  border-radius: 1rem;
+}
+
+/* Profile */
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: 0.75rem;
+}
+
+h1 {
+  margin-bottom: 0.75rem;
+  font-size: var(--font-size-large);
+  font-weight: var(--font-weight-bold);
+}
+
+.location {
+  color: var(--color-green);
+  margin-bottom: 0.75rem;
+}
+
+.blurb {
+  margin-bottom: 1.5rem;
+  font-size: var(--font-size-small);
+}
+
+/* Links */
+.links {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.button {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: 0.5rem;
+  background-color: var(--color-gray-700);
+  color: var(--color-white);
+  text-decoration: none;
+  font-size: var(--font-size-small);
+  text-align: center;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.button:hover {
+  background-color: var(--color-green);
+  color: var(--color-black);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: var(--color-white);
+  margin-top: 2rem;
+  position: fixed;
+  bottom: 2rem;
+  left: 0;
+  right: 0;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
