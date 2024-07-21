@@ -1,8 +1,3 @@
-
-<!-- UPDATE ALL LINKS WITH PROJECT SPECIFIC URLS  -->
-<!-- UPDATE SS AND LOGO -->
-<!-- UPDATE TITLES -->
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
     <img src="./assets/resources/imgs/200w.gif" alt="Logo">
@@ -21,9 +16,6 @@
 This is a solution to the [Social Links Profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
   <p align="center">   
-<br />
-    <br />
-    <br />
     <a href="https://sedaryildirim.github.io/social-links-profile-main/">View Site</a>
     ·
     <a href="https://github.com/sedaryildirim/social-links-profile-main/issues">Report Bug</a>
@@ -32,24 +24,7 @@ This is a solution to the [Social Links Profile challenge on Frontend Mentor](ht
   </p>
 </div>
 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-
-## Overview
-
-### Screenshot
+## Screenshot
 
 <div align="center">
 
@@ -57,26 +32,16 @@ This is a solution to the [Social Links Profile challenge on Frontend Mentor](ht
 ![Desktop](./assets/resources/imgs/desktop.png)
 </div>
 
-### Links
+## Links
 
 - Solution URL: [Add solution URL here](https://github.com/sedaryildirim/social-links-profile-main)
 - Live Site URL: [Add live site URL here](https://sedaryildirim.github.io/social-links-profile-main/)
 
-## My process
-
-### Built with
+## Built with
 
 - HTML
 - CSS
 - Flexbox
-
-### What I learned
-
-
-
-### Continued development
-
-
 
 ### Useful resources
 
@@ -86,10 +51,6 @@ This is a solution to the [Social Links Profile challenge on Frontend Mentor](ht
 
 - Github - [Sedar Yildirim](https://github.com/sedaryildirim)
 - Frontend Mentor - [@sedaryildirim](https://www.frontendmentor.io/profile/sedaryildirim)
-
-## Acknowledgments
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
